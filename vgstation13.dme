@@ -2842,4 +2842,7 @@
 #include "maps\RandomZLevels\stationCollision.dm"
 #include "maps\RandomZLevels\tomb.dm"
 #include "maps\RandomZLevels\wildwest.dm"
+#include "modular-hatt\_tgs-defines.dm"
+#include "modular-hatt\tgs\tgs.dm"
+#include "modular-hatt\tgs\tgs\includes.dm"
 // END_INCLUDE
